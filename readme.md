@@ -1,5 +1,7 @@
 # Real-Time Movie Recommender
 
+## Michal Dzienski & Rayan Rabbi
+
 ## Quick Start
 
 1. **Setup**
